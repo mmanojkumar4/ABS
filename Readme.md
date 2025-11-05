@@ -364,7 +364,7 @@ Checksums are used to verify the **integrity** of each backup — ensuring it wa
    sha256sum -c "$1.sha256"
    ```
 
-3. If the two hashes match → ✅ the backup is valid.
+3. If the two hashes match →  the backup is valid.
    If they don’t →  the backup is considered corrupted or modified.
 
 ####  **Example Log**
