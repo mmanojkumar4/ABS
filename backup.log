@@ -1,0 +1,107 @@
+[2025-11-04 07:10:48] INFO: Starting backup of /mnt/c/Users/hp/Documents/files
+[2025-11-04 07:10:48] INFO: Performing incremental backup using /mnt/c/Users/hp/Desktop/backup/backup.snar
+tar: Removing leading `/' from member names
+[2025-11-04 07:10:49]  SUCCESS: Backup created: backup-2025-11-04-0710.tar.gz
+/mnt/c/Users/hp/Desktop/backup/backup-2025-11-04-0710.tar.gz: OK
+[2025-11-04 07:10:49] INFO: Checksum verified successfully
+[2025-11-04 07:10:49] Email simulated: Backup Success
+[2025-11-04 07:10:49]  Cleaning old backups...
+[2025-11-04 07:25:39] INFO: Starting backup of /mnt/c/Users/hp/Documents/files
+[2025-11-04 07:25:39] INFO: Performing incremental backup using /mnt/c/Users/hp/Desktop/backup/backup.snar
+tar: Removing leading `/' from member names
+[2025-11-04 07:25:39]  SUCCESS: Backup created: backup-2025-11-04-0725.tar.gz
+/mnt/c/Users/hp/Desktop/backup/backup-2025-11-04-0725.tar.gz: OK
+[2025-11-04 07:25:39] INFO: Checksum verified successfully
+[2025-11-04 07:25:39] Email simulated: Backup Success
+[2025-11-04 07:25:39]  Cleaning old backups...
+[2025-11-04 07:25:39]  Deleted old backup: backup-2025-11-03-1157.tar.gz
+[2025-11-04 07:28:20] INFO: Starting backup of /mnt/c/Users/hp/Documents/files
+[2025-11-04 07:28:20] INFO: Performing incremental backup using /mnt/c/Users/hp/Desktop/backup/backup.snar
+tar: Removing leading `/' from member names
+[2025-11-04 07:28:20]  SUCCESS: Backup created: backup-2025-11-04-0728.tar.gz
+/mnt/c/Users/hp/Desktop/backup/backup-2025-11-04-0728.tar.gz: OK
+[2025-11-04 07:28:20] INFO: Checksum verified successfully
+[2025-11-04 07:28:20] Email simulated: Backup Success
+[2025-11-04 07:28:20]  Cleaning old backups...
+[2025-11-04 07:28:21]  Deleted old backup: backup-2025-11-04-0518.tar.gz
+[2025-11-04 07:31:17] INFO: Starting backup of /mnt/c/Users/hp/Documents/files
+[2025-11-04 07:31:17] INFO: Performing first full backup
+tar: Removing leading `/' from member names
+[2025-11-04 07:31:18]  SUCCESS: Backup created: backup-2025-11-04-0731.tar.gz
+/mnt/c/Users/hp/Desktop/backup/backupfiles/backup-2025-11-04-0731.tar.gz: OK
+[2025-11-04 07:31:18] INFO: Checksum verified successfully
+[2025-11-04 07:31:18] Email simulated: Backup Success
+[2025-11-04 07:31:18]  Cleaning old backups...
+[2025-11-04 08:38:11] INFO: Starting backup of /mnt/c/Users/hp/Documents/files
+[2025-11-04 08:38:11] INFO: Performing incremental backup using /mnt/c/Users/hp/Desktop/backup/backupfiles/backup.snar
+tar: Removing leading `/' from member names
+[2025-11-04 08:38:12]  SUCCESS: Backup created: backup-2025-11-04-0838.tar.gz
+/mnt/c/Users/hp/Desktop/backup/backupfiles/backup-2025-11-04-0838.tar.gz: OK
+[2025-11-04 08:38:12] INFO: Checksum verified successfully
+[2025-11-04 08:38:12] Email simulated: Backup Success
+[2025-11-04 08:38:12]  Cleaning old backups...
+[2025-11-04 08:43:07] INFO: Starting backup of /mnt/c/Users/hp/Documents/files
+[2025-11-04 08:43:07] INFO: Performing incremental backup using /mnt/c/Users/hp/Desktop/backup/backupfiles/backup.snar
+tar: Removing leading `/' from member names
+[2025-11-04 08:43:07]  SUCCESS: Backup created: backup-2025-11-04-0843.tar.gz
+/mnt/c/Users/hp/Desktop/backup/backupfiles/backup-2025-11-04-0843.tar.gz: OK
+[2025-11-04 08:43:07] INFO: Checksum verified successfully
+[2025-11-04 08:43:07] Email simulated: Backup Success
+[2025-11-04 08:43:07]  Cleaning old backups...
+[2025-11-04 08:49:54] INFO: Starting backup of /mnt/c/Users/hp/Documents/files
+[2025-11-04 08:49:54] INFO: Performing incremental backup using /mnt/c/Users/hp/Desktop/backup/backupfiles/backup.snar
+tar: Removing leading `/' from member names
+[2025-11-04 08:49:54]  SUCCESS: Backup created: backup-2025-11-04-0849.tar.gz
+/mnt/c/Users/hp/Desktop/backup/backupfiles/backup-2025-11-04-0849.tar.gz: OK
+[2025-11-04 08:49:54] INFO: Checksum verified successfully
+[2025-11-04 08:49:54] Email simulated: Backup Success
+[2025-11-04 08:49:54]  Cleaning old backups...
+[2025-11-04 08:57:53] INFO: Starting backup of /mnt/c/Users/hp/Documents/files
+[2025-11-04 08:57:54] INFO: Performing incremental backup using /mnt/c/Users/hp/Desktop/backup/backupfiles/backup.snar
+tar: Removing leading `/' from member names
+[2025-11-04 08:57:54]  SUCCESS: Backup created: backup-2025-11-04-0857.tar.gz
+/mnt/c/Users/hp/Desktop/backup/backupfiles/backup-2025-11-04-0857.tar.gz: OK
+[2025-11-04 08:57:54] INFO: Checksum verified successfully
+[2025-11-04 08:57:54] Email simulated: Backup Success
+[2025-11-04 08:57:54]  Cleaning old backups...
+[2025-11-04 09:06:52] INFO: Starting backup of /mnt/c/Users/hp/Documents/files
+[2025-11-04 09:06:52] INFO: Performing incremental backup using /mnt/c/Users/hp/Desktop/backup/backupfiles/backup.snar
+tar: Removing leading `/' from member names
+[2025-11-04 09:06:53]  SUCCESS: Backup created: backup-2025-11-04-0906.tar.gz
+/mnt/c/Users/hp/Desktop/backup/backupfiles/backup-2025-11-04-0906.tar.gz: OK
+[2025-11-04 09:06:53] INFO: Checksum verified successfully
+[2025-11-04 09:06:53] Email simulated: Backup Success
+[2025-11-04 09:06:53]  Cleaning old backups...
+[2025-11-04 09:06:53]  Deleted old backup: backup-2025-10-10-1010.tar.gz
+[2025-11-04 09:06:53]  Deleted old backup: backup-2025-10-25-1010.tar.gz
+[2025-11-04 09:09:24] INFO: Starting backup of /mnt/c/Users/hp/Documents/files
+[2025-11-04 09:09:24] INFO: Performing incremental backup using /mnt/c/Users/hp/Desktop/backup/backupfiles/backup.snar
+tar: Removing leading `/' from member names
+[2025-11-04 09:09:24]  SUCCESS: Backup created: backup-2025-11-04-0909.tar.gz
+/mnt/c/Users/hp/Desktop/backup/backupfiles/backup-2025-11-04-0909.tar.gz: OK
+[2025-11-04 09:09:24] INFO: Checksum verified successfully
+[2025-11-04 09:09:24] Email simulated: Backup Success
+[2025-11-04 09:09:24]  Cleaning old backups...
+[2025-11-04 09:09:24]  Deleted old backup: backup-2025-11-02-1010.tar.gz
+[2025-11-04 09:10:25] INFO: Starting backup of /mnt/c/Users/hp/Documents/files
+[2025-11-04 09:17:30]  Available Backups in /mnt/c/Users/hp/Desktop/backup/backupfiles:
+[2025-11-04 09:49:15] Restored backup backup-2025-11-04-0909.tar.gz to 
+[2025-11-04 09:51:19] Restored backup backup-2025-11-04-0909.tar.gz to /mnt/c/Users/hp/Desktop/backup/restore
+[2025-11-05 04:46:35] INFO: Starting backup of /mnt/c/Users/hp/Documents/files
+[2025-11-05 04:46:35] INFO: Performing incremental backup using /mnt/c/Users/hp/Desktop/backup/backupfiles/backup.snar
+tar: Removing leading `/' from member names
+[2025-11-05 04:46:35]  SUCCESS: Backup created: backup-2025-11-05-0446.tar.gz
+/mnt/c/Users/hp/Desktop/backup/backupfiles/backup-2025-11-05-0446.tar.gz: OK
+[2025-11-05 04:46:35] INFO: Checksum verified successfully
+[2025-11-05 04:46:36] Email simulated: Backup Success
+[2025-11-05 04:46:36]  Cleaning old backups...
+[2025-11-05 04:46:36]  Deleted old backup: backup-2025-11-04-0731.tar.gz
+[2025-11-05 04:48:34] INFO: Starting backup of /mnt/c/Users/hp/Documents/files
+[2025-11-05 04:48:34] INFO: Performing incremental backup using /mnt/c/Users/hp/Desktop/backup/backupfiles/backup.snar
+tar: Removing leading `/' from member names
+[2025-11-05 04:48:34]  SUCCESS: Backup created: backup-2025-11-05-0448.tar.gz
+/mnt/c/Users/hp/Desktop/backup/backupfiles/backup-2025-11-05-0448.tar.gz: OK
+[2025-11-05 04:48:34] INFO: Checksum verified successfully
+[2025-11-05 04:48:34] Email simulated: Backup Success
+[2025-11-05 04:48:34]  Cleaning old backups...
+[2025-11-05 04:48:34]  Deleted old backup: backup-2025-11-04-0838.tar.gz
