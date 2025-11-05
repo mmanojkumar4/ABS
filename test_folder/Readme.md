@@ -163,12 +163,12 @@ Helps quickly review backup history.
 
 | Test               | Description                                    | Result |
 | ------------------ | ---------------------------------------------- | ------ |
-| Backup Creation    | Full backup created successfully               | ✅ Pass |
-| Incremental Backup | Detected and backed up only changed files      | ✅ Pass |
-| Old Backup Cleanup | Older archives deleted as per retention policy | ✅ Pass |
-| Restore Function   | Files restored to target directory             | ✅ Pass |
-| Dry Run Mode       | Simulated backup without creating files        | ✅ Pass |
-| Email Log          | Backup notifications simulated                 | ✅ Pass |
-| Error Handling     | Invalid folder handled safely                  | ✅ Pass |
-| List Backups       | All backups listed properly                    | ✅ Pass |
+| Backup Creation    | Full backup created successfully               |  Pass |
+| Incremental Backup | Detected and backed up only changed files      |  Pass |
+| Old Backup Cleanup | Older archives deleted as per retention policy |  Pass |
+| Restore Function   | Files restored to target directory             |  Pass |
+| Dry Run Mode       | Simulated backup without creating files        |  Pass |
+| Email Log          | Backup notifications simulated                 |  Pass |
+| Error Handling     | Invalid folder handled safely                  |  Pass |
+| List Backups       | All backups listed properly                    |  Pass |
 
