@@ -209,7 +209,7 @@ monthly_backups=($(find . -type f -name "backup-*.tar.gz" -mtime +28 -printf "%f
 ####  Log Example:
 
 ```
-[2025-11-04 08:57:54] 🧹 Cleaning old backups...
+[2025-11-04 08:57:54]  Cleaning old backups...
 [2025-11-04 08:57:54] Deleted old backup: backup-2025-09-01-0930.tar.gz
 [2025-11-04 08:57:54] Deleted old backup: backup-2025-08-15-0915.tar.gz
 ```
